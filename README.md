@@ -12,5 +12,6 @@
 
 ### Further Reading
 
+1. Adam Smith [Circulation of Money](http://www.econlib.org/library/Smith/smWN7.html)
 1. F.A. Hayek - [The Use of Knowledge in Society](http://home.uchicago.edu/~vlima/courses/econ200/spring01/hayek.pdf)
 1. Israel Kirtzner - [Entrepreneurial Discovery and the Competitive Market Process: An Austrian Approach](http://walkerd.people.cofc.edu/400/Sobel/1B-3.%20Kirzner%20-%20Entrepreneurial%20Discovery%20and%20the%20Competitive%20Market%20Process%20An%20Austrian%20Approach.pdf)
