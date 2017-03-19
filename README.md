@@ -4,7 +4,7 @@
 
 
 1. John Maynard Keynes - [The Economic Possiblities of our Grandchildren](https://assets.aspeninstitute.org/content/uploads/files/content/upload/Intro_Session1.pdf)
-1. Equilibrium Theory
+1. [Supply-side vs. Demand-side economics](https://ieet.org/index.php/IEET2/more/brin20100220)
 1. Ford [My Life and Work](http://marketcurry.yolasite.com/resources/Henry%20Ford%20-%20My%20life%20and%20work%20(biography).pdf) (selection)
 1. Joseph Schumpeter
 1. [WHO CREATES JOBS? SMALL VS. LARGE VS. YOUNG](http://www.nber.org/papers/w16300.pdf)
